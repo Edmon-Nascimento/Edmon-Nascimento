@@ -12,7 +12,7 @@ Hi! I'm **Edmon Nascimento**, a passionate beginner learning the art of developm
 
 - **Personal Projects** – Projects where I apply my skills to solve real-world problems.
 - **Collaborations** – Contributions to projects from other developers, a great way to learn and grow.
-- 
+
 ## Main tecnologies:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php)](https://skillicons.dev)
 
