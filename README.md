@@ -6,8 +6,8 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edmon-Nascimento&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
      
-## Main tecnologies
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php)](https://skillicons.dev)
+## Main technologies
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,wordpress)](https://skillicons.dev)
      
 ### My social networks
  
