@@ -13,7 +13,15 @@
 ### My social networks
  
 <div> 
-   <a href="https://www.linkedin.com/in/edmon-nascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="https://www.instagram.com/edmoncode/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://x.com/edmoncode" target="_blank"><img src="https://img.shields.io/badge/edmoncode-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/edmon-nascimento/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://www.instagram.com/edmoncode/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<a href="https://x.com/edmoncode" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/edmoncode-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter/X">
+</a>
 </div>
