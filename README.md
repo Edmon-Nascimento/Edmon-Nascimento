@@ -7,7 +7,7 @@
 </div>
      
 ## Main technologies
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
      
 ### My social networks
  
