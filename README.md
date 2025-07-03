@@ -19,8 +19,4 @@
 <a href="https://www.instagram.com/edmoncode/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
-
-<a href="https://x.com/edmoncode" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/edmoncode-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter/X">
-</a>
 </div>
