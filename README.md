@@ -22,11 +22,11 @@
 
 ---
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
@@ -52,9 +52,9 @@
 
 ---
 
-<h3 align="left">🔥   My Stats</h3>
+<h3 align="center">🔥   My Stats</h3>
 
-<div>
+<div align="center">
   
 ![Edmon Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edmon-Nascimento&theme=tokyonight)
 
