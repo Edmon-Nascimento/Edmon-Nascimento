@@ -2,19 +2,24 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - uses: Platane/snk@v3
         with:
           github_user_name: edmon-nascimento
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
+
       - name: Upload files to the output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
