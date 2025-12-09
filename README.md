@@ -1,22 +1,55 @@
-## Welcome to Edmon Nascimento's profile 
-<div>
-  <a href="https://github.com/Edmon-Nascimento">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edmon-Nascimento&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edmon-Nascimento&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
-</div>
-     
-## Main technologies
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,wordpress,firebase,figma,react,typescript)](https://skillicons.dev)
-     
-### My social networks
- 
-<div> 
-<a href="https://www.linkedin.com/in/edmon-nascimento/" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+<h1 align="center">Hi there! 👋 I'm Edmon Nascimento</h1>
+<p align="center">A passionate developer focused on building creative and efficient solutions!</p>
 
-<a href="https://www.instagram.com/edmoncode/" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
+---
+
+<div>
+  
+![Edmon Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edmon-Nascimento&theme=tokyonight)
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Edmon-Nascimento&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Edmon-Nascimento&theme=tokyonight)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Edmon-Nascimento&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Edmon-Nascimento&theme=tokyonight&utcOffset=3)
+
 </div>
+
+---
+     
+## 🛠️ Technologies & Tools
+
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript" width="45" />
+  <img src="https://skillicons.dev/icons?i=typescript" width="45" />
+</p>
+
+### Front-end
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" width="45" />
+  <img src="https://skillicons.dev/icons?i=css" width="45" />
+  <img src="https://skillicons.dev/icons?i=react" width="45" />
+</p>
+
+
+### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase" width="45" />
+</p>
+
+### Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" width="45" />
+  <img src="https://skillicons.dev/icons?i=github" width="45" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="45" />
+  <img src="https://skillicons.dev/icons?i=figma" width="45" />
+</p>
+
+---
+     
+## 🌐 Social Media
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edmon-nascimento/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/edmon-nascimento/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-edmoncode.vercel.app/)
