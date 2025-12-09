@@ -54,7 +54,7 @@
 
 <h3 align="left">🔥   My Stats</h3>
 
-<div align="center">
+<div align="left">
   
 ![Edmon Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edmon-Nascimento&theme=tokyonight)
 
