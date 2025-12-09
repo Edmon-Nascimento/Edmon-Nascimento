@@ -5,22 +5,28 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
-      - uses: Platane/snk@v3
+      - name: Generate snake files
+        uses: Platane/snk@v3
         with:
           github_user_name: edmon-nascimento
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
-      - name: Upload files to the output branch
+      - name: Push snake files to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
