@@ -1,0 +1,23 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # gera a cada 12 horas
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake.gif?color_snake=green&color_dots=#bfbfbf,#9e9e9e,#7c7c7c,#5a5a5a,#3a3a3a
+      - name: Upload files
+        uses: actions/upload-artifact@v3
+        with:
+          name: snake-animations
+          path: dist
