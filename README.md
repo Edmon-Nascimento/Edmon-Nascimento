@@ -1,77 +1,40 @@
 <!-- HERO SECTION -->
 <div align="center">
-  <img height="160" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGUycmdib29iNDVmbjQwemQ3MzJwN250Nzc1OTIyanZxdGloMXJ3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
+  <img height="120" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGUycmdib29iNDVmbjQwemQ3MzJwN250Nzc1OTIyanZxdGloMXJ3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
 </div>
 
 <h1 align="center">Hi 👋 I'm Edmon Nascimento</h1>
 
 <h3 align="center">
-Front-end Developer transitioning to Full Stack <br/>
-Focused on building creative and efficient digital solutions.
+Front-End Developer focused on building modern, performant and user-centered applications.
 </h3>
 
 <br/>
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edmon-nascimento/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/71920030489)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-edmoncode.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edmoncode7@gmail.com)
 
 </div>
 
 ---
 
-## About me
+## About Me
 
-I’m a developer passionate about creating intuitive and performant interfaces.  
-Currently evolving from **Front-end** to **Full Stack**, expanding my knowledge in backend development with **Java** and **Python** while strengthening my React + TypeScript expertise.
+Front-End Developer specialized in React.js, TypeScript, and modern JavaScript, building responsive and user-centered web applications.
 
-I enjoy turning ideas into real, scalable products.
+Passionate about clean code, performance, accessibility, and intuitive interfaces.
+
+Currently improving my skills through real-world projects involving APIs, component architecture, and scalable frontend development while expanding my backend knowledge.
 
 ---
 
 ## Skills
 
-### Languages
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" />
-</div>
-
-<br/>
-
-### Frameworks & Libraries
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" />
-</div>
-
-<br/>
-
-### Tools
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,firebase,python,java,git,figma,vscode,wordpress" />
 </div>
 
 ---
@@ -79,14 +42,9 @@ I enjoy turning ideas into real, scalable products.
 ## GitHub Stats
 
 <div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Edmon-Nascimento&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   
-![Edmon Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edmon-Nascimento&theme=tokyonight)
-
-<br/>
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Edmon-Nascimento&theme=tokyonight)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Edmon-Nascimento&theme=tokyonight)
-
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edmon-Nascimento&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -96,9 +54,3 @@ I enjoy turning ideas into real, scalable products.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edmon-nascimento/edmon-nascimento/output/snake.svg" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/edmon-nascimento/edmon-nascimento/output/snake.svg" />
 </picture>
-
----
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
-</div>
