@@ -27,7 +27,7 @@ Front-End Developer specialized in React.js, TypeScript, and modern JavaScript, 
 
 Passionate about clean code, performance, accessibility, and intuitive interfaces.
 
-Currently improving my skills through real-world projects involving APIs, component architecture, and scalable frontend development while expanding my backend knowledge.
+Currently building real-world projects involving APIs, component architecture, and scalable frontend applications while expanding into backend development.
 
 ---
 
@@ -40,7 +40,8 @@ Currently improving my skills through real-world projects involving APIs, compon
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edmon-nascimento/edmon-nascimento/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edmon-nascimento/edmon-nascimento/output/snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/edmon-nascimento/edmon-nascimento/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edmon-Nascimento/Edmon-Nascimento/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edmon-Nascimento/Edmon-Nascimento/output/snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Edmon-Nascimento/Edmon-Nascimento/output/snake.svg" />
 </picture>
+
