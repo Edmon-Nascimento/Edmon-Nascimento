@@ -39,16 +39,6 @@ Currently improving my skills through real-world projects involving APIs, compon
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Edmon-Nascimento&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edmon-Nascimento&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edmon-nascimento/edmon-nascimento/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edmon-nascimento/edmon-nascimento/output/snake.svg" />
