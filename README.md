@@ -39,9 +39,27 @@ Currently building real-world projects involving APIs, component architecture, a
 
 ---
 
+## Featured Projects
+
+### E-commerce Product Page
+
+Responsive e-commerce product page built with React, TypeScript and TailwindCSS.
+
+- Product gallery
+- Cart functionality
+- Responsive design
+- Modern UI/UX
+
+🔗 Live Demo  
+https://ecommerce-product-page-u9n1.vercel.app/
+
+📁 Repository  
+https://github.com/Edmon-Nascimento/ecommerce-product-page
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edmon-Nascimento/Edmon-Nascimento/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edmon-Nascimento/Edmon-Nascimento/output/snake.svg" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/Edmon-Nascimento/Edmon-Nascimento/output/snake.svg" />
 </picture>
-
