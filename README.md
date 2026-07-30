@@ -34,7 +34,7 @@ Currently building real-world projects involving APIs, component architecture, a
 ## Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,firebase,python,java,git,figma,vscode,wordpress" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,firebase,java,git,figma,vscode,wordpress" />
 </div>
 
 ---
