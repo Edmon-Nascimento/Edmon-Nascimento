@@ -1,65 +1,44 @@
-<!-- HERO SECTION -->
-<div align="center">
-  <img height="120" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGUycmdib29iNDVmbjQwemQ3MzJwN250Nzc1OTIyanZxdGloMXJ3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
-</div>
+# Hi 👋 I'm Edmon Nascimento
 
-<h1 align="center">Hi 👋 I'm Edmon Nascimento</h1>
+### Front-End Developer focused on building modern, performant and user-centered applications.
 
-<h3 align="center">
-Front-End Developer focused on building modern, performant and user-centered applications.
-</h3>
-
-<br/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edmon-nascimento/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-edmoncode.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edmoncode7@gmail.com)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edmon-nascimento/) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-edmoncode.vercel.app/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edmoncode7@gmail.com)
 
 ---
 
 ## About Me
 
-Front-End Developer specialized in React.js, TypeScript, and modern JavaScript, building responsive and user-centered web applications.
+Front-End Developer with hands-on experience in React and TypeScript, turning ideas into responsive, user-centered applications.
 
-Passionate about clean code, performance, accessibility, and intuitive interfaces.
+I care about writing clean, maintainable code and building interfaces that feel intuitive — not just functional. Recently, I've been applying that same mindset to practical AI integration, building real-world projects that combine LLM APIs, serverless functions, and modern component architecture.
 
-Currently building real-world projects involving APIs, component architecture, and scalable frontend applications while expanding into backend development.
+Currently expanding into backend development with Java, working toward a full-stack skill set.
 
 ---
 
 ## Skills
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,firebase,java,git,figma,vscode,wordpress" />
-</div>
+![](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,firebase,java,git,figma,vscode,wordpress)
 
 ---
 
-## Featured Projects
+## Featured Project
 
-### E-commerce Product Page
+### 🍳 Receita na Mão — AI Recipe Generator
 
-Responsive e-commerce product page built with React, TypeScript and TailwindCSS.
+An application that generates personalized recipes in real time based on the ingredients provided by the user, powered by an LLM (Mistral 7B via HuggingFace Inference API).
 
-- Product gallery
-- Cart functionality
-- Responsive design
-- Modern UI/UX
+- AI-generated recipes using a structured prompt for consistent output
+- Custom serverless API route (Vercel) for secure integration with the model
+- Custom markdown rendering (title, ingredients, step-by-step instructions, chef's tip)
+- Form built with React 19's new Action API
+- Loading state feedback during generation
+- Responsive UI built with TailwindCSS
 
-🔗 Live Demo  
-https://ecommerce-product-page-u9n1.vercel.app/
+**Stack:** React 19 · Vite · TailwindCSS · HuggingFace Inference API · react-markdown
 
-📁 Repository  
-https://github.com/Edmon-Nascimento/ecommerce-product-page
+🔗 Live Demo — https://receitanamao.vercel.app/
+📁 Repository — https://github.com/Edmon-Nascimento/receita-na-mao
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edmon-Nascimento/Edmon-Nascimento/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edmon-Nascimento/Edmon-Nascimento/output/snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Edmon-Nascimento/Edmon-Nascimento/output/snake.svg" />
-</picture>
+![snake animation](https://raw.githubusercontent.com/Edmon-Nascimento/Edmon-Nascimento/output/snake.svg)
