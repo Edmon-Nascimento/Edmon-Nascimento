@@ -42,4 +42,8 @@ An application that generates personalized recipes in real time based on the ing
 📁 Repository — https://github.com/Edmon-Nascimento/receita-na-mao
 
 ---
-![snake animation](https://raw.githubusercontent.com/Edmon-Nascimento/Edmon-Nascimento/output/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edmon-Nascimento/Edmon-Nascimento/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edmon-Nascimento/Edmon-Nascimento/output/snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Edmon-Nascimento/Edmon-Nascimento/output/snake.svg" />
+</picture>
