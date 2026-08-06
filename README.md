@@ -38,6 +38,7 @@ An application that generates personalized recipes in real time based on the ing
 **Stack:** React 19 · Vite · TailwindCSS · HuggingFace Inference API · react-markdown
 
 🔗 Live Demo — https://receitanamao.vercel.app/
+
 📁 Repository — https://github.com/Edmon-Nascimento/receita-na-mao
 
 ---
