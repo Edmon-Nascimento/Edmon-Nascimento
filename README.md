@@ -21,27 +21,6 @@ Currently expanding into backend development with Java, working toward a full-st
 ![](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,firebase,java,git,figma,vscode,wordpress)
 
 ---
-
-## Featured Project
-
-### 🍳 Receita na Mão — AI Recipe Generator
-
-An application that generates personalized recipes in real time based on the ingredients provided by the user, powered by an LLM (Mistral 7B via HuggingFace Inference API).
-
-- AI-generated recipes using a structured prompt for consistent output
-- Custom serverless API route (Vercel) for secure integration with the model
-- Custom markdown rendering (title, ingredients, step-by-step instructions, chef's tip)
-- Form built with React 19's new Action API
-- Loading state feedback during generation
-- Responsive UI built with TailwindCSS
-
-**Stack:** React 19 · Vite · TailwindCSS · HuggingFace Inference API · react-markdown
-
-🔗 Live Demo — https://receitanamao.vercel.app/
-
-📁 Repository — https://github.com/Edmon-Nascimento/receita-na-mao
-
----
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edmon-Nascimento/Edmon-Nascimento/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edmon-Nascimento/Edmon-Nascimento/output/snake.svg" />
