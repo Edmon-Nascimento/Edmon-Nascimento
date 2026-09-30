@@ -8,11 +8,11 @@
 
 ## About Me
 
-Full-Stack Developer with professional experience building web applications using **React, TypeScript, JavaScript and REST APIs**.
+Full-Stack Developer with professional experience building web applications using **React, TypeScript, JavaScript, Java and REST APIs**.
 
 Currently working as a **Full-Stack Development Intern**, contributing to production applications, API integrations, reusable components, automated tests, accessibility improvements and responsive interfaces.
 
-My main strength is Front-End development with React and TypeScript, while I'm expanding my backend expertise with **Java, Spring Boot, PostgreSQL and Docker**.
+My main strength is Front-End development with React and TypeScript, while expanding my backend expertise with **Java, Spring Boot, PostgreSQL and Docker**. I also have experience developing institutional websites with **WordPress and Elementor**.
 
 I enjoy building software that is maintainable, scalable and focused on real user needs.
 
@@ -39,6 +39,11 @@ I enjoy building software that is maintainable, scalable and focused on real use
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![Prisma](https://skillicons.dev/icons?i=prisma)
 
+### CMS & Website Development
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+
 ### Testing, Tools & Workflow
 
 ![Jest](https://skillicons.dev/icons?i=jest)
@@ -64,6 +69,9 @@ I enjoy building software that is maintainable, scalable and focused on real use
 - Responsive and accessible interfaces
 - Git/GitHub workflows and code reviews
 - Third-party API integrations
+- WordPress website development
+- Elementor page builder and responsive layouts
+- Institutional website development and customization
 
 ---
 
@@ -77,7 +85,7 @@ A full-stack movie and TV series platform built to practice and apply modern web
 
 The project includes movie and series discovery, search, individual content pages, reviews, favorites and watch history.
 
-[View Repository](https://github.com/Edmon-Nascimento/teladupla)
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Edmon-Nascimento/teladupla)
 
 ---
 
